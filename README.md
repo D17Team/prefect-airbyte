@@ -1,3 +1,6 @@
+> [!IMPORTANT] This repo is no longer actively maintained by @PrefectHQ
+> You can find integrations actively maintained by @PrefectHQ [here](https://docs.prefect.io/integrations/integrations)
+
 # prefect-airbyte
 
 <p align="center">
