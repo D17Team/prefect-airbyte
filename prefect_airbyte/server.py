@@ -3,7 +3,7 @@
 from logging import Logger
 
 from prefect.blocks.core import Block
-from pydantic.v1 import Field, SecretStr
+from pydantic import Field, SecretStr
 from prefect_airbyte.client import AirbyteClient
 
 
